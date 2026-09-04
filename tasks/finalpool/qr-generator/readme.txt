@@ -1,0 +1,1 @@
+Readme for qr-generator (implemented, from junxian_dev)
