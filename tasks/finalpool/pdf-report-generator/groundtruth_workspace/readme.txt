@@ -1,0 +1,1 @@
+Groundtruth workspace readme for pdf-report-generator
