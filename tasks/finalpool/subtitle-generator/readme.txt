@@ -1,0 +1,1 @@
+Readme for subtitle-generator (implemented, from haoze)

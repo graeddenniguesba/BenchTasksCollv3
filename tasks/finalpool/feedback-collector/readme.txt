@@ -1,0 +1,1 @@
+Readme for feedback-collector (implemented, from lv)

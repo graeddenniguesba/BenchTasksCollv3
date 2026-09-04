@@ -1,0 +1,1 @@
+Readme for social-publisher (implemented, from gyy)
