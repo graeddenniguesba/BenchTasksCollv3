@@ -1,1 +1,1 @@
-Placeholder readme for activity-logger
+Readme for activity-logger (implemented, from lueyang-dev)
