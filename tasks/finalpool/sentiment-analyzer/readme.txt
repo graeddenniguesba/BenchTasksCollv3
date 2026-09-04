@@ -1,0 +1,1 @@
+Readme for sentiment-analyzer (implemented, from lv)
