@@ -1,0 +1,1 @@
+Readme for email-campaign (implemented, from lueyang-dev)
