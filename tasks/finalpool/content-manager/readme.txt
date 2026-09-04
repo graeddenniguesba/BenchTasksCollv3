@@ -1,0 +1,1 @@
+Readme for content-manager (implemented, from yuxuan-dev)

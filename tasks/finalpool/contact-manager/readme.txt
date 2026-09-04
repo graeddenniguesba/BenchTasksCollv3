@@ -1,0 +1,1 @@
+Readme for contact-manager (implemented, from junteng_dev)

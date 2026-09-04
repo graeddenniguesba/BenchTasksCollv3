@@ -1,0 +1,1 @@
+Readme for coupon-manager (implemented, from fan-dev)

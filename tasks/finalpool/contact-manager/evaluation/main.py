@@ -1,0 +1,1 @@
+Evaluation main script for contact-manager
