@@ -1,0 +1,1 @@
+Readme for video-trimmer (implemented, from haoze)

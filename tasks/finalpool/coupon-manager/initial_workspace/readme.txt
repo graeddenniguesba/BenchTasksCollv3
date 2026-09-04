@@ -1,0 +1,1 @@
+Initial workspace readme for coupon-manager

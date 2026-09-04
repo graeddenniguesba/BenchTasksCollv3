@@ -1,0 +1,1 @@
+Readme for deal-manager (implemented, from lueyang-dev)

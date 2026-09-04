@@ -1,0 +1,1 @@
+Groundtruth workspace readme for video-trimmer

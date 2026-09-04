@@ -1,0 +1,1 @@
+Preprocess main script for deal-manager
